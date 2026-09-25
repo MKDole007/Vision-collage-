@@ -1,8 +1,0 @@
-<htmL>
-<head>
-<title> this is the prcatical file </title>
-</head>
-<body>
-<h1> exame file </h1>
-<p> THIS IS THE BEST SUBJECT IN BCA SEM 3 </p>
-</html>
